@@ -4,6 +4,10 @@
     "browser": true
   },
   "plugins": [
+<<<<<<< HEAD
+=======
+    "eslint-plugin-html",
+>>>>>>> dbff61d68b8130a2bdabc7b73d6f65c7c3095de8
     "html"
   ],
   "rules": {
